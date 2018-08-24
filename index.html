@@ -18587,10 +18587,8 @@
                     // dapi.openStoreUrl();
                     // console.log('dapi open store')
                     mraid.open(url);
-                    this.game.updateTotalCoin(1000);
                     console.log('mraid open store')
                 } catch (err) {
-                    this.game.updateTotalCoin(-200);
                     console.error(err);
                     window.location = url;
                 }

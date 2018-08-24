@@ -300,7 +300,7 @@
     function showMyAd(){
         document.querySelector("#loading").style.display = "none";
         document.querySelector("#app_wrap").style.visibility = "visible";
-        document.querySelector("#box").innerHTML = window.webpackJsonp?"hello":"none";
+        document.querySelector("#box").innerHTML = window.webpackJsonp?"hello":(typeof window.webpackJsonp);
     }
 </script>
 </body>

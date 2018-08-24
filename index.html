@@ -18207,7 +18207,13 @@
                         install.y = canvasH - 96;
                         install.interactive = true;
                         install.buttonmode = true;
-                        install.on('pointerdown', self.linkAppStore);
+                        install.on('pointerdown', function(){
+                            this.alpha=0.5;
+                        });
+                        install.on('pointerup',function(){
+                            this.alpha=1;
+                            self.linkAppStore();
+                        })
                         This.app.stage.addChild(install);
                     };
 

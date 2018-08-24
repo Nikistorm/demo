@@ -19,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="18584" column="17" lean-forward="false" selection-start-line="18584" selection-start-column="17" selection-end-line="18584" selection-end-column="17" />
+            <state relative-caret-position="175">
+              <caret line="18589" column="52" lean-forward="false" selection-start-line="18589" selection-start-column="52" selection-end-line="18589" selection-end-column="52" />
               <folding>
                 <element signature="n#link#0;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -30,6 +30,7 @@
                 <element signature="e#102615#106284#2" expanded="true" />
                 <element signature="e#109001#159974#2" expanded="true" />
                 <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -76,6 +77,9 @@
       <find>pointerdown</find>
       <find>alpha</find>
       <find>totalCoi</find>
+      <find>totalCoin</find>
+      <find>update</find>
+      <find>updateTotalCoin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,12 +173,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535082278257</updated>
       <workItem from="1535082280108" duration="9542000" />
-      <workItem from="1535100564547" duration="4548000" />
+      <workItem from="1535100564547" duration="4883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14090000" />
+    <option name="totallyTimeSpent" value="14425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-37" y="23" width="1440" height="821" extended-state="0" />
@@ -225,6 +229,7 @@
             <element signature="e#102615#106284#2" expanded="true" />
             <element signature="e#109001#159974#2" expanded="true" />
             <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -254,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="18584" column="17" lean-forward="false" selection-start-line="18584" selection-start-column="17" selection-end-line="18584" selection-end-column="17" />
+        <state relative-caret-position="175">
+          <caret line="18589" column="52" lean-forward="false" selection-start-line="18589" selection-start-column="52" selection-end-line="18589" selection-end-column="52" />
           <folding>
             <element signature="n#link#0;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -265,6 +270,7 @@
             <element signature="e#102615#106284#2" expanded="true" />
             <element signature="e#109001#159974#2" expanded="true" />
             <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#2;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
